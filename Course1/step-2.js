@@ -8,7 +8,7 @@
 // let hello;
 // Variable naming follows specific rules: names can include letters, numbers, dollar signs, and underscores, but cannot contain spaces and must not begin with a number.Имена переменных следуют определенным правилам: имена могут включать буквы, цифры, знаки доллара и подчеркивания, но не могут содержать пробелы и не должны начинаться с цифры.
 
-// Use the let keyword to declare a variable called character.
+// ❓ Use the let keyword to declare a variable called character.
 // Используйте ключевое слово let для объявления переменной с именем character.
 
 // Note: It is common practice to end statements in JavaScript with a semicolon. ;
